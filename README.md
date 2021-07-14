@@ -1,2 +1,2 @@
 # Calculator
-Calculator using UI modules in python
+Calculator using tkinter module in python
